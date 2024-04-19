@@ -8,6 +8,14 @@
   --secondary: #61d368;
   --biege: #f2eeeb;
   --bordercolor: #323232;
+  --inputBg: #e1dbd2;
+  --primary-dark: #020a08;
+  --card-bg: #e8eced;
+  --info-blue: #80e7ff;
+  --info-text: #0c466f;
+}
+::-webkit-scrollbar {
+  display: none;
 }
 
 * {
